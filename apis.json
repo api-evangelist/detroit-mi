@@ -1,0 +1,33 @@
+{
+    "name": "Detroit, MI",
+    "description": "Providing accessible, high-quality information and analysis to drive informed decision-making.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DataDrivenDetroit-136x90.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/detroit-mi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Detroit, MI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DataDrivenDetroit-136x90.png",
+            "humanURL": "http:\/\/datadrivendetroit.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/datadrivendetroit.org\/"
+        }
+    ]
+}
